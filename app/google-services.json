@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75026664858",
+    "project_id": "peligo-1c306",
+    "storage_bucket": "peligo-1c306.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75026664858:android:231348dee8b6bfb8ac3e23",
+        "android_client_info": {
+          "package_name": "com.jaime.peligo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9XuNk5Qp8tw04C6gLxVPGTv_HV4aE_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
